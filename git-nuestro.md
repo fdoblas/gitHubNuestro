@@ -1,3 +1,4 @@
+Palabra de **Linus Torvalds**
 
 *Git* nuestro que estas en los repos
 
